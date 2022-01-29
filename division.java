@@ -1,4 +1,4 @@
-class sub
+class divisionpart
 {
 a%b;
 }
