@@ -1,0 +1,4 @@
+class sub
+{
+a%b;
+}
