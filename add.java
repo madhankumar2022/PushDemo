@@ -1,0 +1,4 @@
+class add
+{
+a+b;
+}
